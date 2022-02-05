@@ -76,7 +76,7 @@ namespace Calc
                 }
 
 
-                Console.WriteLine("Developer: Andrei Korban");
+                Console.WriteLine("Developer: A");
 
                 Console.WriteLine("Завершить процесс? (yes)");
 
